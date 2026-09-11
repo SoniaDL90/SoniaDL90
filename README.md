@@ -3,7 +3,7 @@
 Junior Web Developer based in Brighton, UK
 
 - 🔭 Currently building projects with **Symfony**, **Angular** and **Docker**
-- 🎓 FP Superior in Web Application Development (2024–2025)
+- 🎓 FP Superior in Web Application Development (2024–2026)
 - 💼 Completed an internship as Junior Web Developer at Hiniestic S.L.
 - 🌱 Currently learning: Angular in depth
 - 📫 Open to Junior Developer opportunities in the UK
